@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "app": "mcsd",
+  "project": {
+    "name": "村民音效",
+    "key": "mcsd",
+    "description": "",
+    "platform": "java",
+    "javaPackFormat": "98.0",
+    "gameVersion": "26.4-snapshot-1",
+    "version": "1.0.0",
+    "releaseChannel": "stable",
+    "iconPath": "pack.png"
+  },
+  "audioFiles": [
+    {
+      "id": "audio-1790569229754-0",
+      "key": "on1alsyx",
+      "name": "on1alsyx.ogg",
+      "originalName": "【on1】爱丽丝音效不喜欢.oga",
+      "fileName": "on1alsyx.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/on1alsyx.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    },
+    {
+      "id": "audio-1790569229754-1",
+      "key": "yesalsyx",
+      "name": "yesalsyx.ogg",
+      "originalName": "【yes】爱丽丝音效.oga",
+      "fileName": "yesalsyx.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/yesalsyx.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    },
+    {
+      "id": "audio-1790569229754-2",
+      "key": "jy1ddd",
+      "name": "jy1ddd.ogg",
+      "originalName": "【交易1】叮叮叮.mp3",
+      "fileName": "jy1ddd.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/jy1ddd.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    },
+    {
+      "id": "audio-1790569229754-3",
+      "key": "swalsyxs",
+      "name": "swalsyxs.ogg",
+      "originalName": "【死亡】爱丽丝音效死亡.oga",
+      "fileName": "swalsyxs.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/swalsyxs.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    },
+    {
+      "id": "audio-1790569229754-4",
+      "key": "xzalsyxn",
+      "name": "xzalsyxn.ogg",
+      "originalName": "【闲置】爱丽丝音效嗯哼.oga",
+      "fileName": "xzalsyxn.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/xzalsyxn.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    },
+    {
+      "id": "audio-1790569807782-0",
+      "key": "xzalsyxw",
+      "name": "xzalsyxw.ogg",
+      "originalName": "【闲置】爱丽丝音效我在这里哦.wav",
+      "fileName": "xzalsyxw.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/xzalsyxw.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    },
+    {
+      "id": "audio-1790570007457-0",
+      "key": "xzalsy_2",
+      "name": "xzalsy_2.ogg",
+      "originalName": "【闲置】爱丽丝音效我是L.wav",
+      "fileName": "xzalsy_2.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/xzalsy_2.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    },
+    {
+      "id": "audio-1790570205113-0",
+      "key": "jyalsyx",
+      "name": "jyalsyx.ogg",
+      "originalName": "【交易】爱丽丝音效.wav",
+      "fileName": "jyalsyx.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/jyalsyx.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    },
+    {
+      "id": "audio-1790570410356-0",
+      "key": "jyalsyxy",
+      "name": "jyalsyxy.ogg",
+      "originalName": "【交易】爱丽丝音效牙白.wav",
+      "fileName": "jyalsyxy.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/jyalsyxy.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    },
+    {
+      "id": "audio-1790571007667-0",
+      "key": "ss1alsyx",
+      "name": "ss1alsyx.ogg",
+      "originalName": "【受伤1】爱丽丝音效.mp3",
+      "fileName": "ss1alsyx.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/ss1alsyx.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    },
+    {
+      "id": "audio-1790571007667-1",
+      "key": "ss2alsyx",
+      "name": "ss2alsyx.ogg",
+      "originalName": "【受伤2】爱丽丝音效.mp3",
+      "fileName": "ss2alsyx.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/ss2alsyx.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    },
+    {
+      "id": "audio-1790571007667-2",
+      "key": "ss3alsyx",
+      "name": "ss3alsyx.ogg",
+      "originalName": "【受伤3】爱丽丝音效.mp3",
+      "fileName": "ss3alsyx.ogg",
+      "archivePath": "assets/minecraft/sounds/mcsd/ss3alsyx.ogg",
+      "format": "OGG",
+      "codec": "vorbis",
+      "codecLongName": "Vorbis",
+      "bitRate": null,
+      "sampleRate": 44100,
+      "channels": 2,
+      "duration": null
+    }
+  ],
+  "customEventSuffixes": {
+    "audio-1790569229754-0": "on1alsyx",
+    "audio-1790569229754-1": "yesalsyx",
+    "audio-1790569229754-2": "jy1ddd",
+    "audio-1790569229754-3": "swalsyxs",
+    "audio-1790569229754-4": "xzalsyxn",
+    "audio-1790569807782-0": "xzalsyxw",
+    "audio-1790570007457-0": "xzalsy_2",
+    "audio-1790570205113-0": "jyalsyx",
+    "audio-1790570410356-0": "jyalsyxy",
+    "audio-1790571007667-0": "ss1alsyx",
+    "audio-1790571007667-1": "ss2alsyx",
+    "audio-1790571007667-2": "ss3alsyx"
+  },
+  "customEventNames": [
+    "mcsd.on1alsyx",
+    "mcsd.yesalsyx",
+    "mcsd.jy1ddd",
+    "mcsd.swalsyxs",
+    "mcsd.xzalsyxn",
+    "mcsd.xzalsyxw",
+    "mcsd.xzalsy_2",
+    "mcsd.jyalsyx",
+    "mcsd.jyalsyxy",
+    "mcsd.ss1alsyx",
+    "mcsd.ss2alsyx",
+    "mcsd.ss3alsyx"
+  ],
+  "eventBindings": {
+    "audio-1790569229754-0": [
+      "mcsd.on1alsyx"
+    ],
+    "audio-1790569229754-1": [
+      "mcsd.yesalsyx"
+    ],
+    "audio-1790569229754-2": [
+      "mcsd.jy1ddd"
+    ],
+    "audio-1790569229754-3": [
+      "mcsd.swalsyxs"
+    ],
+    "audio-1790569229754-4": [
+      "mcsd.xzalsyxn"
+    ],
+    "audio-1790569807782-0": [
+      "mcsd.xzalsyxw"
+    ],
+    "audio-1790570007457-0": [
+      "mcsd.xzalsy_2"
+    ],
+    "audio-1790570205113-0": [
+      "mcsd.jyalsyx"
+    ],
+    "audio-1790570410356-0": [
+      "mcsd.jyalsyxy"
+    ],
+    "audio-1790571007667-0": [
+      "mcsd.ss1alsyx"
+    ],
+    "audio-1790571007667-1": [
+      "mcsd.ss2alsyx"
+    ],
+    "audio-1790571007667-2": [
+      "mcsd.ss3alsyx"
+    ]
+  },
+  "eventWeights": {},
+  "audioSubtitles": {
+    "audio-1790569229754-0": "",
+    "audio-1790569229754-1": "",
+    "audio-1790569229754-2": "",
+    "audio-1790569229754-3": "",
+    "audio-1790569229754-4": "",
+    "audio-1790569807782-0": "",
+    "audio-1790570007457-0": "",
+    "audio-1790570205113-0": "",
+    "audio-1790570410356-0": "",
+    "audio-1790571007667-0": "",
+    "audio-1790571007667-1": "",
+    "audio-1790571007667-2": ""
+  },
+  "soundsJson": {
+    "mcsd.on1alsyx": {
+      "sounds": [
+        {
+          "name": "mcsd/on1alsyx",
+          "stream": true
+        }
+      ]
+    },
+    "mcsd.yesalsyx": {
+      "sounds": [
+        {
+          "name": "mcsd/yesalsyx",
+          "stream": true
+        }
+      ]
+    },
+    "mcsd.jy1ddd": {
+      "sounds": [
+        {
+          "name": "mcsd/jy1ddd",
+          "stream": true
+        }
+      ]
+    },
+    "mcsd.swalsyxs": {
+      "sounds": [
+        {
+          "name": "mcsd/swalsyxs",
+          "stream": true
+        }
+      ]
+    },
+    "mcsd.xzalsyxn": {
+      "sounds": [
+        {
+          "name": "mcsd/xzalsyxn",
+          "stream": true
+        }
+      ]
+    },
+    "mcsd.xzalsyxw": {
+      "sounds": [
+        {
+          "name": "mcsd/xzalsyxw",
+          "stream": true
+        }
+      ]
+    },
+    "mcsd.xzalsy_2": {
+      "sounds": [
+        {
+          "name": "mcsd/xzalsy_2",
+          "stream": true
+        }
+      ]
+    },
+    "mcsd.jyalsyx": {
+      "sounds": [
+        {
+          "name": "mcsd/jyalsyx",
+          "stream": true
+        }
+      ]
+    },
+    "mcsd.jyalsyxy": {
+      "sounds": [
+        {
+          "name": "mcsd/jyalsyxy",
+          "stream": true
+        }
+      ]
+    },
+    "mcsd.ss1alsyx": {
+      "sounds": [
+        {
+          "name": "mcsd/ss1alsyx",
+          "stream": true
+        }
+      ]
+    },
+    "mcsd.ss2alsyx": {
+      "sounds": [
+        {
+          "name": "mcsd/ss2alsyx",
+          "stream": true
+        }
+      ]
+    },
+    "mcsd.ss3alsyx": {
+      "sounds": [
+        {
+          "name": "mcsd/ss3alsyx",
+          "stream": true
+        }
+      ]
+    }
+  }
+}

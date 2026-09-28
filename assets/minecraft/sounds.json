@@ -1,0 +1,98 @@
+{
+  "mcsd.on1alsyx": {
+    "sounds": [
+      {
+        "name": "mcsd/on1alsyx",
+        "stream": true
+      }
+    ]
+  },
+  "mcsd.yesalsyx": {
+    "sounds": [
+      {
+        "name": "mcsd/yesalsyx",
+        "stream": true
+      }
+    ]
+  },
+  "mcsd.jy1ddd": {
+    "sounds": [
+      {
+        "name": "mcsd/jy1ddd",
+        "stream": true
+      }
+    ]
+  },
+  "mcsd.swalsyxs": {
+    "sounds": [
+      {
+        "name": "mcsd/swalsyxs",
+        "stream": true
+      }
+    ]
+  },
+  "mcsd.xzalsyxn": {
+    "sounds": [
+      {
+        "name": "mcsd/xzalsyxn",
+        "stream": true
+      }
+    ]
+  },
+  "mcsd.xzalsyxw": {
+    "sounds": [
+      {
+        "name": "mcsd/xzalsyxw",
+        "stream": true
+      }
+    ]
+  },
+  "mcsd.xzalsy_2": {
+    "sounds": [
+      {
+        "name": "mcsd/xzalsy_2",
+        "stream": true
+      }
+    ]
+  },
+  "mcsd.jyalsyx": {
+    "sounds": [
+      {
+        "name": "mcsd/jyalsyx",
+        "stream": true
+      }
+    ]
+  },
+  "mcsd.jyalsyxy": {
+    "sounds": [
+      {
+        "name": "mcsd/jyalsyxy",
+        "stream": true
+      }
+    ]
+  },
+  "mcsd.ss1alsyx": {
+    "sounds": [
+      {
+        "name": "mcsd/ss1alsyx",
+        "stream": true
+      }
+    ]
+  },
+  "mcsd.ss2alsyx": {
+    "sounds": [
+      {
+        "name": "mcsd/ss2alsyx",
+        "stream": true
+      }
+    ]
+  },
+  "mcsd.ss3alsyx": {
+    "sounds": [
+      {
+        "name": "mcsd/ss3alsyx",
+        "stream": true
+      }
+    ]
+  }
+}
